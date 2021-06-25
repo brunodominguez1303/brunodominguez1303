@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brunodominguez1303
+- 👀 I’m interested in game, animes and cartoons.
+- 🌱 I’m currently learning Java and how to develop software with this language. Currently understanding how to develop a mobile game.
+- 💞️ I’m looking to collaborate on anything that will potentially improve my skills.
+- 📫 How to reach me: https://www.facebook.com/bruno.dominguezdasilva/ and https://www.linkedin.com/in/bruno-dominguez1303/.
